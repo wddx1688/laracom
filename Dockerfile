@@ -1,4 +1,4 @@
-FROM jsdecena/php74-fpm
+FROM bitnami/php-fpm:8.1
 
 ENV NODE_VERSION=12.6.0
 RUN apt update && apt install -y curl
