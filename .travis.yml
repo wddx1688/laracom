@@ -1,7 +1,7 @@
 language: php
 
 jsdecena:
-  - php72-composer:latest
+  - php81-composer:latest
 
 sudo: false
 
